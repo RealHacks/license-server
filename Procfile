@@ -1,1 +1,1 @@
-web: gunicorn license_server:app
+web: python license_server.py
